@@ -1,3 +1,0 @@
-1) Problem to import pydot and Graphviz
-https://www.youtube.com/watch?v=hTUAh2ZUNgg
-
